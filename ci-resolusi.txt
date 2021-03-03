@@ -2,3 +2,5 @@ CI RESOLUSI
 - Konsisten belajar
 - Membuat project
 - Membuat forum diskusi
+- Membuat aplikasi chat
+- Belajar kolaborasi dengan programmer
